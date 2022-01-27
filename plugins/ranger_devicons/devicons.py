@@ -233,7 +233,8 @@ dir_node_exact_matches = {
     'Templates'                        : '',
     'Videos'                           : '',
     'Github'                           : 'ﯙ',
-    'Notes'                            : '',
+    'Study'                            : '',
+    'Notes'                            : '',
 # Spanish
     'Escritorio'                       : '',
     'Documentos'                       : '',
